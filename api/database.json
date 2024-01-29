@@ -1,0 +1,74 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "A ship in port is safe, but that's not what ships are built for.",
+      "authorId": 1
+    },
+    {
+      "id": 2,
+      "text": "Sometimes it is the people no one imagines anything of who do the things that no one can imagine.",
+      "authorId": 2
+    },
+    {
+      "id": 3,
+      "text": "To me programming is more than an important practical art. It is also a gigantic undertaking in the foundations of knowledge.",
+      "authorId": 1
+    },
+    {
+      "id": 4,
+      "text": "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.",
+      "authorId": 2
+    },
+    {
+      "id": 5,
+      "text": "Understand well as I may, my comprehension can only be an infinitesimal fraction of all I want to understand.",
+      "authorId": 3
+    },
+    {
+      "text": "One accurate measurement is worth a thousand expert opinions.",
+      "authorId": 1,
+      "id": 6
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Grace Hopper"
+    },
+    {
+      "id": 2,
+      "name": "Alan Turing"
+    },
+    {
+      "id": 3,
+      "name": "Ada Lovelace"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Inspirational"
+    },
+    {
+      "id": 2,
+      "name": "Funny"
+    },
+    {
+      "id": 3,
+      "name": "Intelligent"
+    }
+  ],
+  "quoteCategories": [
+    {
+      "id": 1,
+      "quoteId": 1,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "quoteId": 1,
+      "categoryId": 2
+    }
+  ]
+}
